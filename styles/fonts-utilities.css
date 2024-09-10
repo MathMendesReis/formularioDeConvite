@@ -1,0 +1,35 @@
+/* Título */
+.leckerli-one-logo {
+  font-family: var(--font-leckerli-one-logo);
+  font-size: var(--font-leckerli-one-logo-size);
+  font-weight: var(--font-leckerli-one-logo-weight);
+}
+
+/* Cabeçalhos */
+.baloo2-heading-md {
+  font-family: var(--font-baloo2-heading-md);
+  font-size: var(--font-baloo2-heading-md-size);
+  font-weight: var(--font-baloo2-heading-md-weight);
+}
+.baloo2-heading-sm {
+  font-family: var(--font-baloo2-heading-sm);
+  font-size: var(--font-baloo2-heading-sm-size);
+  font-weight: var(--font-baloo2-heading-sm-weight);
+}
+
+/* Corpo do texto */
+.open-sans-body-md {
+  font-family: var(--font-open-sans-body-md);
+  font-size: var(--font-open-sans-body-md-size);
+  font-weight: var(--font-open-sans-body-md-weight);
+}
+.open-sans-body-sm {
+  font-family: var(--font-open-sans-body-sm);
+  font-size: var(--font-open-sans-body-sm-size);
+  font-weight: var(--font-open-sans-body-sm-weight);
+}
+.open-sans-body-xxs {
+  font-family: var(--font-open-sans-body-xxs);
+  font-size: var(--font-open-sans-body-xxs-size);
+  font-weight: var(--font-open-sans-body-xxs-weight);
+}
