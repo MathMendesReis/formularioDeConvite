@@ -1,0 +1,27 @@
+.w-full{
+  width: 100%;
+}
+.max-w-1280{
+  max-width: 1280px;
+}
+
+.h-768{
+  height: 768px;
+}
+.rounded-12{
+  border-radius:12px ;
+}
+.rounded-20{
+  border-radius:20px ;
+}
+
+.bg-shape-body{
+  background-color: var(--shape-background);
+}
+
+.px-20{
+  padding-inline: 20px;
+}
+.py-20{
+  padding-block: 20px;
+}

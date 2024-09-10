@@ -3,6 +3,7 @@
   font-family: var(--font-leckerli-one-logo);
   font-size: var(--font-leckerli-one-logo-size);
   font-weight: var(--font-leckerli-one-logo-weight);
+
 }
 
 /* Cabeçalhos */
@@ -10,11 +11,15 @@
   font-family: var(--font-baloo2-heading-md);
   font-size: var(--font-baloo2-heading-md-size);
   font-weight: var(--font-baloo2-heading-md-weight);
+  color:var(--text-heading);
+
 }
 .baloo2-heading-sm {
   font-family: var(--font-baloo2-heading-sm);
   font-size: var(--font-baloo2-heading-sm-size);
   font-weight: var(--font-baloo2-heading-sm-weight);
+  color:var(--text-heading);
+
 }
 
 /* Corpo do texto */
@@ -22,14 +27,20 @@
   font-family: var(--font-open-sans-body-md);
   font-size: var(--font-open-sans-body-md-size);
   font-weight: var(--font-open-sans-body-md-weight);
+  color:var(--text-body);
+
 }
 .open-sans-body-sm {
   font-family: var(--font-open-sans-body-sm);
   font-size: var(--font-open-sans-body-sm-size);
   font-weight: var(--font-open-sans-body-sm-weight);
+  color:var(--text-body);
+
 }
 .open-sans-body-xxs {
   font-family: var(--font-open-sans-body-xxs);
   font-size: var(--font-open-sans-body-xxs-size);
   font-weight: var(--font-open-sans-body-xxs-weight);
+  color:var(--text-body);
+
 }
