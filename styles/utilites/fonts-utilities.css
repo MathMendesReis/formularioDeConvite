@@ -44,3 +44,14 @@
   color:var(--text-body);
 
 }
+
+.text-heading{
+  color: var(--text-heading);
+}
+.semi-bold{
+  font-weight: var( --font-open-sans-body-md-weight-semibold);
+}
+.leading-22{
+  line-height: 22px;
+}
+

@@ -1,0 +1,24 @@
+.w-full{
+  width: 100%;
+}
+.w-0{
+  width: 0;
+}
+.w-24{
+  width: 24px;
+}
+.w-64{
+  width: 64px;
+}
+.max-w-146{
+  max-width: 146px;
+}
+.max-w-272{
+  max-width: 272px;
+}
+.max-w-365{
+  max-width: 365px;
+}
+.max-w-1280{
+  max-width: 1280px;
+}

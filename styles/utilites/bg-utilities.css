@@ -1,0 +1,62 @@
+.bg-brand-dark{
+  background-color: var(--brand-dark);
+}
+
+.bg-shape-button{
+  background-color: var(--shape-button);
+}
+
+.bg-shape-body{
+  background-color: var(--shape-background);
+}
+
+.bg-input-base{
+  background-color: var(--input-base);
+}
+
+.highlight{
+  opacity: 0.9;
+  transition: opacity ease-in 150ms;
+}
+.highlight:hover{
+  opacity: 1.2;
+  transition: opacity ease-in 150ms;
+
+}
+.bg-red{
+  background-color: red;
+}
+.bg-yellow {
+  background-color: var(--yellow);
+}
+.bg-lime {
+  background-color: var(--lime);
+}
+.bg-green {
+  background-color: var(--green);
+}
+.bg-cyan {
+  background-color: var(--cyan);
+}
+.bg-navy {
+  background-color: var(--navy);
+}
+.bg-purple {
+  background-color: var(--purple);
+}
+.bg-fuschia {
+  background-color: var(--fuschia);
+}
+.bg-pink {
+  background-color: var(--pink);
+}
+.bg-orange {
+  background-color: var(--orange);
+}
+.bg-brand-light {
+  background-color: var(--brand-light);
+}
+.bg-brand-mid {
+  background-color: var(--brand-mid);
+}
+

@@ -1,0 +1,39 @@
+
+
+.resize-none{
+  resize: none;
+}
+
+.border-none{
+  border: none;
+}
+
+.icon{
+  width: 20px;
+  height: 20px;
+  object-fit: contain;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+.unset {
+  all: unset; /* Remove todos os estilos */
+}
+.relative{
+  position: relative;
+}
+.absolute{
+  position: absolute;
+  left: 25%;
+}
+
+.top-50{
+  top: 50%;
+}
+.transform-translate{
+  transform: translate(-50%, -50%);
+}
+
+.opacity-0 { 
+  opacity: 0;
+}

@@ -37,7 +37,7 @@
 
    /* Leckerli One */
    --font-leckerli-one-logo: 'Leckerli One', cursive;
-   --font-leckerli-one-logo-size: 40px;
+   --font-leckerli-one-logo-size: 4.0em;
    --font-leckerli-one-logo-weight: 400; /* Regular */
  
    /* Baloo 2 */
@@ -45,7 +45,7 @@
    --font-baloo2-heading-md-size: 2.8em;
    --font-baloo2-heading-md-weight: 700; /* Bold */
    --font-baloo2-heading-sm: 'Baloo 2', cursive;
-   --font-baloo2-heading-sm-size: 1.em;
+   --font-baloo2-heading-sm-size: 1.8em;
    --font-baloo2-heading-sm-weight: 700; /* Bold */
  
    /* Open Sans */

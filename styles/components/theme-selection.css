@@ -1,0 +1,32 @@
+.theme-selection{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 4px 4px 8px;
+    gap: 8px;
+    width: 134px;
+    height: 103px;
+    background: #2D3136;
+    border: 1px solid #363B40;
+    border-radius: 8px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.theme-selection-image{
+    width: 126px;
+    height: 64px;
+    background: #869198;
+    border-radius: 4px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.text-center{
+ text-align: center;
+}
